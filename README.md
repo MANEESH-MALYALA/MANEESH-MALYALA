@@ -1,28 +1,101 @@
-<h1 align="center">Hi 👋, I'm Maneesh Malyala</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> MANEESH MALYALA
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maneesh-malyala&label=Profile%20views&color=0e75b6&style=flat" alt="maneesh-malyala" /> </p>
+<h3 align="center">Generative AI Cloud Engineer</h3>
 
-- 🔭 I’m currently working on **application**
-
-- 🌱 I’m currently learning **AWS**
-
-- 💬 Ask me about **cloud,**
-
-- 📫 How to reach me **maneeshmalyala@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/maneesh-malyala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/maneesh-malyala" height="30" width="40" /></a>
-<a href="https://instagram.com/me_2k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_2k1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/maneesh_malyala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maneesh_malyala" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/500076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="500076" height="30" width="40" /></a>
+<p align="center">
+  <i>Generative AI • Cloud • Automation</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maneesh-malyala&show_icons=true&locale=en&layout=compact" alt="maneesh-malyala" /></p>
+## 🌌 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maneesh-malyala&show_icons=true&locale=en" alt="maneesh-malyala" /></p>
+🚀 Passionate about building scalable **Cloud Native** and **Generative AI** solutions.
+
+☁️ Experienced in designing and deploying infrastructure using **AWS**, **Terraform**, **Docker**, and **Kubernetes**.
+
+🤖 Focused on AI-driven automation, cloud orchestration, and modern DevOps workflows.
+
+💡 Interested in:
+- Generative AI
+- Cloud Automation
+- Infrastructure as Code
+- Kubernetes Ecosystems
+- CI/CD Engineering
+- Scalable AI Platforms
+
+---
+
+## ⚡ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,python,terraform,linux,git,github,vscode" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ☁️ AWS Terraform Infrastructure
+Infrastructure provisioning and cloud resource automation using Terraform on AWS.
+
+### 🔄 CI/CD Pipeline Automation
+Automated deployment workflows using containerized DevOps pipelines and cloud-native tooling.
+
+### 🤖 AI Cloud Automation Platform
+Built intelligent automation workflows integrating AI services with scalable cloud infrastructure.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maneeshmalyala&show_icons=true&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maneeshmalyala&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🛠 Current Focus
+
+- Generative AI Applications
+- Cloud Infrastructure Automation
+- Kubernetes Orchestration
+- Terraform Infrastructure
+- AI + DevOps Integration
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/maneeshmalyala">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vineethmalyala9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=maneeshmalyala&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+---
+
+<p align="center">
+⚡ <i>"Building intelligent cloud systems with AI and automation."</i>
+</p>
 
