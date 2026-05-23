@@ -52,11 +52,11 @@ Built intelligent automation workflows integrating AI services with scalable clo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maneeshmalyala&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MANEESH-MALYALA&show_icons=true&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maneeshmalyala&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANEESH-MALYALA&theme=tokyonight" height="180"/>
 </p>
 
 ---
