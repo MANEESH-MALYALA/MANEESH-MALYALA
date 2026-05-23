@@ -84,7 +84,7 @@ Built intelligent automation workflows integrating AI services with scalable clo
 </a>
 
 <a href="https://instagram.com/me_2k1" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@YOURUSERNAME-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-@me_2k1E-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
