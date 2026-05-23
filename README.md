@@ -56,7 +56,11 @@ Built intelligent automation workflows integrating AI services with scalable clo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANEESH-MALYALA&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=MANEESH-MALYALA&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANEESH-MALYALA&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
