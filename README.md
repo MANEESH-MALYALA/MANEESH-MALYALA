@@ -79,7 +79,7 @@ Built intelligent automation workflows integrating AI services with scalable clo
   <img src="https://img.shields.io/badge/GitHub-maneeshmalyala-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/maneesh-malyala/" target="_blank">
+<a href="www.linkedin.com/in/maneeshmalyala/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Maneesh%20Malyala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
