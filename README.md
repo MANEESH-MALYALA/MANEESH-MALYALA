@@ -1,7 +1,7 @@
 <h1 align="center">Maneesh Malyala</h1>
 
 <p align="center">
-  AWS Cloud Engineer  &nbsp;·&nbsp; Hyderabad, India
+  AWS Cloud Engineer/Devops/SRE  &nbsp;·&nbsp; Hyderabad, India
 </p>
 
 <p align="center">
