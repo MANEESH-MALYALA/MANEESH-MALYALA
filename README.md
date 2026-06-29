@@ -1,70 +1,88 @@
 <h1 align="center">Maneesh Malyala</h1>
 
 <p align="center">
-  AWS Cloud Engineer/Devops/SRE  &nbsp;·&nbsp; Hyderabad, India
+  <b>AWS Cloud Engineer · DevOps · SRE</b><br/>
+  Hyderabad, India
 </p>
 
 <p align="center">
-  Building cloud-native systems that bring generative AI into production.
+  Building production cloud infrastructure on AWS — IaC, CI/CD, monitoring, and the operational glue that keeps it all running.
 </p>
 
 <p align="center">
+  <a href="https://maneesh-malyala.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/maneesh-malyala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/MANEESH-MALYALA"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:maneeshmalyala@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-### About
+## About
 
-I design and deploy cloud infrastructure for AI-powered applications. My focus is the boundary between LLM systems and the platforms that run them at scale — AWS, Terraform, Kubernetes, and the orchestration layer that ties them together.
+Early-career cloud engineer with hands-on experience across AWS, Terraform, and CI/CD pipelines. Currently focused on infrastructure automation, observability, and security in cloud-native environments.
 
-Currently exploring retrieval-augmented generation pipelines on AWS Bedrock, infrastructure automation with Terraform modules, and production deployment patterns for LangChain applications.
-
-**Open to:** full-time roles, freelance projects, and open-source collaboration.
-
----
-
-### Tech Stack
-
-**Cloud & Infrastructure** &nbsp; AWS · Terraform · Kubernetes · Docker · Ansible
-**AI & Backend** &nbsp; Python · LangChain · AWS Bedrock · FastAPI
-**DevOps & Tooling** &nbsp; GitHub Actions · Git · Linux · VS Code
+- ☁️ **AWS Certified Cloud Practitioner** — preparing for **Solutions Architect – Associate (SAA-C03)**
+- 🎓 Pursuing **M.Tech in Cloud Computing at BITS Pilani** (2026–2028)
+- 🔧 Hands-on with EC2, S3, VPC, IAM, Lambda, Terraform, GitHub Actions, Docker, and CloudWatch
+- 💼 Open to full-time **Cloud Engineer / DevOps / SRE** roles
 
 ---
 
-### Featured Projects
+## Tech Stack
 
-### `04` — currently building
+**Cloud**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-| **`P.01` 🛡️ DevSecOps Pipeline** *(shipping soon)*
-| Secure CI/CD pipeline with SAST, container scanning, secret detection, 
-| and IaC security checks. Built end-to-end as a personal project.
-| `GitHub Actions` `Trivy` `Gitleaks` `Checkov`
-| → link coming soon
+**Infrastructure as Code & Containers**  
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 
-| **`P.02` ☁️ AWS Terraform Infrastructure** *(in progress)*
-| Modular multi-environment infrastructure (dev/staging/prod) on AWS 
-| with remote state. Building this weekend.
-| `Terraform` `AWS` `IaC`
+**CI/CD & DevOps**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
-| **`P.03` 🐍 Python Cloud Automation** *(planned)*
-| boto3-based scripts for AWS cost reporting, IAM auditing, 
-| and S3 lifecycle automation.
-| `Python` `boto3` `AWS`
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Operating Systems**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## Currently Building
+
+🛡️ **DevSecOps Pipeline** — *shipping soon*  
+Secure CI/CD pipeline with SAST, container scanning, secret detection, and IaC security checks.  
+**Stack:** GitHub Actions · Trivy · Gitleaks · Checkov · Semgrep
+
+☁️ **AWS Terraform Infrastructure** — *in progress*  
+Modular multi-environment infrastructure (dev / staging / prod) on AWS with remote S3 state and reusable modules.  
+**Stack:** Terraform · AWS · IaC
+
+🐍 **Python Cloud Automation** — *planned*  
+boto3-based scripts for AWS cost reporting, IAM auditing, and S3 lifecycle automation.  
+**Stack:** Python · boto3 · AWS
 
 ---
 
-### GitHub
+## Education & Certifications
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANEESH-MALYALA&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Stats" />
-</p>
+- 🚧 **AWS Certified Solutions Architect – Associate (SAA-C03)** — *in progress*
+- ✅ **AWS Certified Cloud Practitioner (CLF-C02)** — Amazon Web Services
+- 📚 **M.Tech in Cloud Computing** — Birla Institute of Technology and Science (BITS) Pilani · 2026–2028
+- 🎓 **B.Tech in Computer Science (IoT Specialisation)** — ACE Engineering College, JNTU Hyderabad · 2020–2024
 
 ---
+
+## GitHub Activity
 
 <p align="center">
-  <sub>Last updated: June 2026</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=MANEESH-MALYALA&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub Stats"/>
 </p>
+
+---
+
+<p align="center"><sub>Last updated: June 2026</sub></p>
 
