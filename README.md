@@ -36,21 +36,23 @@ Currently exploring retrieval-augmented generation pipelines on AWS Bedrock, inf
 
 ### Featured Projects
 
-#### [aws-terraform-infrastructure](https://github.com/MANEESH-MALYALA/aws-terraform-infrastructure)
-Modular Terraform configuration for provisioning production AWS environments. Includes VPC networking, IAM roles with least-privilege policies, and reusable modules for common patterns.
-`Terraform` `AWS` `IaC`
+### `04` — currently building
 
-#### [cicd-pipeline-automation](https://github.com/MANEESH-MALYALA/cicd-pipeline-automation)
-End-to-end CI/CD pipeline for containerized applications. GitHub Actions builds and pushes images to ECR, deploys to EKS with rolling updates, and surfaces deployment health via CloudWatch.
-`Docker` `Kubernetes` `GitHub Actions`
+| **`P.01` 🛡️ DevSecOps Pipeline** *(shipping soon)*
+| Secure CI/CD pipeline with SAST, container scanning, secret detection, 
+| and IaC security checks. Built end-to-end as a personal project.
+| `GitHub Actions` `Trivy` `Gitleaks` `Checkov`
+| → link coming soon
 
-#### [ai-cloud-automation-platform](https://github.com/MANEESH-MALYALA/ai-cloud-automation-platform) &nbsp;*(in development)*
-Platform for orchestrating LangChain agents on AWS. Combines Bedrock for model inference, Lambda for execution, and a FastAPI control plane for managing agent workflows.
-`Python` `LangChain` `AWS Bedrock` `FastAPI`
+| **`P.02` ☁️ AWS Terraform Infrastructure** *(in progress)*
+| Modular multi-environment infrastructure (dev/staging/prod) on AWS 
+| with remote state. Building this weekend.
+| `Terraform` `AWS` `IaC`
 
-#### devops-toolkit &nbsp;*(coming soon)*
-A small collection of Terraform modules and Helm charts I've found myself rewriting across projects. Publishing the cleaned-up versions as a starting point for others.
-`Terraform` `Helm` `Open Source`
+| **`P.03` 🐍 Python Cloud Automation** *(planned)*
+| boto3-based scripts for AWS cost reporting, IAM auditing, 
+| and S3 lifecycle automation.
+| `Python` `boto3` `AWS`
 
 ---
 
